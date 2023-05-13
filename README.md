@@ -25,7 +25,7 @@ It takes input like type of disaster, number of people affected, and voice messa
 ## Pages
 
 * Register/Login page: Log into your account using your mobile number
-<img align="left" src="assets/otp.jpg" alt="Register/Login page" width="200"/>
+<img align="left" src="assets/otp.jpg" alt="Register/Login page" width="200"/><br>
 * Report Page: In this page, the user has to enter the type of disaster, number of people  affected, and voice message description and report the disaster
 <img align="left" src="assets/home.jpg" alt="Report page" width="200"/>
 * Location Page: This page displays a map showing the live location of the user and the NDRF admin offices
