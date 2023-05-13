@@ -13,7 +13,7 @@ import * as Location from "expo-location";
 
 import Header from "../Header";
 
-const API_KEY = "990047931f88e58615a7767e1c09847e";
+const API_KEY = {YOUR_OPENWEATHERMAP_API_KEY};
 const WEATHER_API_URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY}&units=metric`;
 const ALERTS_API_URL = `https://api.openweathermap.org/data/2.5/onecall?appid=${API_KEY}&exclude=current,minutely,hourly,daily&units=metric`;
 const EARTHQUAKE_API_URL = "https://earthquake.usgs.gov/fdsnws/event/1/query";
