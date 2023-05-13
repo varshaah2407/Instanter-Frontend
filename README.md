@@ -11,6 +11,8 @@ It takes input like type of disaster, number of people affected, and voice messa
 - [How to use the app](#how-to-use-the-app)
 - [Pages](#pages)
 - [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+
 
 ## Installation
 * Clone the repository.
@@ -31,17 +33,18 @@ It takes input like type of disaster, number of people affected, and voice messa
 * Profile Page: Display the name, mobile number and location of the user
 * Help page: Guides users on how to use the app
 
-<img align="left" src="assets/otp.jpg" alt="Register/Login page" width="200"/><br>
-<img align="left" src="assets/home.jpg" alt="Report page" width="200"/>
-<img align="left" src="assets/map.jpg" alt="Location page" width="200"/>
-<img align="left" src="assets/news.jpg" alt="Newsletter page" width="200"/>
-<img align="left" src="assets/profile.jpg" alt="Profile page" width="200"/>
-<img align="left" src="assets/about.jpg" alt="Help page" width="200"/>
-
-
 ## Tech Stack
 
 * Frontend  : React Native
 * Backend : Flask
 * Database : Google Firebase
 * UI Designing : Canva
+
+## Screenshots
+
+<img align="left" src="assets/otp.jpg" alt="Register/Login page" width="200"/><br>
+<img align="left" src="assets/home.jpg" alt="Report page" width="200"/>
+<img align="left" src="assets/map.jpg" alt="Location page" width="200"/>
+<img align="left" src="assets/news.jpg" alt="Newsletter page" width="200"/>
+<img align="left" src="assets/profile.jpg" alt="Profile page" width="200"/>
+<img align="left" src="assets/about.jpg" alt="Help page" width="200"/>
